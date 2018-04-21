@@ -1,0 +1,52 @@
+EMPIEZA EL TAD01:
+01/01/1900 ""
+01/01/1900 ""
+01/12/2006 "Fecha correcta"
+EMPIEZA EL TAD02:
+01/01/1900 ""
+01/01/1900 ""
+01/12/2006 "Fecha correcta"
+01/12/2006 "Fecha correcta"
+EMPIEZA EL TAD03:
+12/12/2006 "Fecha correcta"
+12/12/2006 "Fecha correcta"
+01/01/1900 ""
+12/12/2006 "Fecha correcta"
+EMPIEZA EL TAD04:
+12/12/2006 "Fecha correcta"
+05/01/1900 "Fecha correcta"
+01/03/2007 "Fecha correcta"
+01/01/1900 ""
+05/01/1900 "Fecha correcta"
+01/01/1900 ""
+EMPIEZA EL TAD05:
+12/12/2006 "Fecha correcta"
+13/12/2006 "Fecha correcta"
+14/12/2006 "Fecha correcta"
+14/12/2006 "Fecha correcta"
+EMPIEZA EL TAD06:
+14/12/1966 "Fecha correcta"
+13/12/1966 "Fecha correcta"
+12/12/1966 "Fecha correcta"
+12/12/1966 "Fecha correcta"
+01/01/1900 ""
+EMPIEZA EL TAD07:
+Procedimiento ModFecha incorrecto
+Procedimiento ModFecha correcto
+Procedimiento ModFecha incorrecto
+Procedimiento ModFecha incorrecto
+EMPIEZA EL TAD08:
+operador == funciona
+operador == funciona
+operador > funciona
+operador < funciona
+operador < funciona
+operador > funciona
+EMPIEZA EL TAD09:
+14/12/1966 "Fecha correcta"
+14/12/1966 "Otra fecha correcta"
+14/12/1966 ""
+EMPIEZA EL TAD10:
+Funcion Dia correcta
+Funcion Mes correcta
+Funcion Anyo correcta

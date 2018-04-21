@@ -1,0 +1,46 @@
+EMPIEZA EL TAD01:
+No hace nada
+EMPIEZA EL TAD02:
+<>
+<14/12/1966 "Fecha Correcta">
+<01/01/1954 "Fecha Correcta" 14/12/1966 "Fecha Correcta">
+EMPIEZA EL TAD03:
+0
+1
+EMPIEZA EL TAD04:
+<>
+<01/01/1900 "" 01/01/2007 "Fecha2">
+<01/01/1900 "">
+EMPIEZA EL TAD05:
+<01/01/1900 "" 01/01/2007 "Fecha2">
+<01/01/1900 "" 01/01/2007 "Fecha2">
+EMPIEZA EL TAD06:
+No hace nada
+EMPIEZA EL TAD07:
+Direccion vacia
+Direccion vacia
+l1 = <>
+EMPIEZA EL TAD08:
+l2 = <01/01/1977 "uno" 04/01/1977 "uno" 01/01/1980 "dos">
+l1 = <01/01/1977 "uno" 04/01/1977 "uno" 01/01/1980 "dos">
+EMPIEZA EL TAD09:
+Lista vacia
+Lista no vacia
+EMPIEZA EL TAD10:
+Lista vacia
+01/01/1980 "dos"
+01/01/1977 "uno"
+l1 = <01/01/1977 "uno" 01/01/1980 "dos">
+Lista no vacia
+EMPIEZA EL TAD16:
+<15/10/2006 "mensaje 6">
+EMPIEZA EL TAD17:
+<14/10/2006 "mensaje 5">
+10/10/2006 "mensaje 1"
+13/10/2006 "mensaje 4"
+EMPIEZA EL TAD18:
+14/10/2006 "mensaje 5"
+EMPIEZA EL TAD19:
+<10/10/2006 "mensaje 1" 11/10/2006 "mensaje 2" 12/10/2006 "mensaje 3" 13/10/2006 "mensaje 4">
+EMPIEZA EL TAD20:
+<10/10/2006 "mensaje 1" 11/10/2006 "mensaje 2">

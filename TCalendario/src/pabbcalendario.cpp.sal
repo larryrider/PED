@@ -1,0 +1,28 @@
+EMPIEZA EL TAD01:
+No hace nada
+EMPIEZA EL TAD02:
+No hace nada
+EMPIEZA EL TAD03:
+IGUALES
+IGUALES
+EMPIEZA EL TAD04:
+Altura: 3
+Nodos: 5
+NodosHoja: 3
+EMPIEZA EL TAD05:
+Inorden: [(1) 01/01/2011 "Fecha1", (2) 02/01/2011 "Fecha2", (3) 03/01/2011 "Fecha3", (4) 05/01/2011 "Fecha5", (5) 06/01/2011 "Fecha6"]
+Preorden: [(1) 05/01/2011 "Fecha5", (2) 02/01/2011 "Fecha2", (3) 01/01/2011 "Fecha1", (4) 03/01/2011 "Fecha3", (5) 06/01/2011 "Fecha6"]
+Postorden: [(1) 01/01/2011 "Fecha1", (2) 03/01/2011 "Fecha3", (3) 02/01/2011 "Fecha2", (4) 06/01/2011 "Fecha6", (5) 05/01/2011 "Fecha5"]
+EMPIEZA EL TAD06:
+No encontrado
+Encontrado
+EMPIEZA EL TAD07:
+IGUALES
+NO IGUALES
+EMPIEZA EL TAD08:
+Insertado
+No insertado
+EMPIEZA EL TAD09:
+Inorden Suma: [(1) 01/01/2011 "Fecha1", (2) 02/01/2011 "Fecha2", (3) 03/01/2011 "Fecha3", (4) 04/01/2011 "Fecha4", (5) 05/01/2011 "Fecha5"]
+EMPIEZA EL TAD10:
+Inorden Resta: [(1) 02/01/2011 "Fecha2", (2) 03/01/2011 "Fecha3"]
